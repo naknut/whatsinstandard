@@ -1,4 +1,4 @@
-# What's in Standard?
+# What's in Standard? (beta)
 *[What's in Standard?][website]* is a simple reference page made to help new (or not new) Magic: The Gathering players easily
 check which sets are currently in [Standard][standard-official], see when the next rotation is going to happen, and understand how
 rotations work.
